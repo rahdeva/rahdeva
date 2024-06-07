@@ -1,5 +1,5 @@
 <div align="left">
-  <a href="https://app.daily.dev/rahdeva"><img src="https://api.daily.dev/devcards/v1/VqOAGUtOGoWVLcQPE7PmP.png?type=default&r=ev1" width="356" alt="Rah Deva's Dev Card"/></a>
+  <a href="https://app.daily.dev/rahdeva"><img src="https://api.daily.dev/devcards/v2/VqOAGUtOGoWVLcQPE7PmP.png?type=default&r=ev1" width="356" alt="Rah Deva's Dev Card"/></a>
 </div>
 
 ### Hi There! I’m Deva 👋
