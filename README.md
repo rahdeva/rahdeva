@@ -1,8 +1,10 @@
 <div align="left">
   <a href="https://app.daily.dev/rahdeva"><img src="https://api.daily.dev/devcards/v2/VqOAGUtOGoWVLcQPE7PmP.png?type=default&r=ev1" width="356" alt="Rah Deva's Dev Card"/></a>
+  <h2>Hi There! I’m Deva 👋</h2
+  <p>Software Engineer</p>
+  <p>I have an interest in Mobile Engineering, U/UX Engineering, and Backend Engineering</p>
 </div>
 
-### Hi There! I’m Deva 👋
 ## Tech Stacks
 ### Back-End
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
