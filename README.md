@@ -1,6 +1,6 @@
 <h2>Hi There! I’m Deva 👋</h2
 <p>Software Engineer</p>
-<p>I have an interest in Mobile Engineering, U/UX Engineering, and Backend Engineering</p>
+<p>I have an interest in Mobile Engineering, UI/UX Engineering, and Backend Engineering</p>
 
 <!---
 ## Tech Stacks
